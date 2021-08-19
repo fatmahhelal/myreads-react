@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d202236104708d5384fe",
+    "revision": "adf5d1a1dd9471f7d06a",
     "url": "/myreads-react/static/css/main.6e02ce59.chunk.css"
   },
   {
-    "revision": "d202236104708d5384fe",
-    "url": "/myreads-react/static/js/main.d2022361.chunk.js"
+    "revision": "adf5d1a1dd9471f7d06a",
+    "url": "/myreads-react/static/js/main.adf5d1a1.chunk.js"
   },
   {
     "revision": "0f2b5974e8414f4578c2",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/myreads-react/static/media/arrow-back.20e8847d.svg"
   },
   {
-    "revision": "f4ec380e53ddf06460e628689415d940",
+    "revision": "e9d327e1214968f8492e15a3f09ab8e1",
     "url": "/myreads-react/index.html"
   }
 ];
