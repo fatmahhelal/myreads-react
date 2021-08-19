@@ -17,6 +17,7 @@ export default class Changer extends Component {
       { shelf: "currentlyReading", title: "Currently Reading" },
       { shelf: "read", title: "Read" },
       { shelf: "wantToRead", title: "Want To Read" },
+      { shelf: "none", title: "none" },
     ];
     return (
       <div className="book-shelf-changer form-control">
@@ -28,7 +29,9 @@ export default class Changer extends Component {
           <option value="" disabled>
             Move to...
           </option>
-          
+          <option value="" hidden>
+            ...
+          </option>
           {shelves.map((shelf, key) => (
             <option
               value={shelf.shelf}
